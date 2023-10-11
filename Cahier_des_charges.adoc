@@ -1,0 +1,65 @@
+= Holiday Inn Hotel IGP
+SAÉ S1 R1.05 Recueil des besoins; SOYER Guillaume; IVARS Zachary; GROUPE: 3A 
+:toc:
+
+== 1 - Introducion
+De nos jours, de nombreux problèmes peuvent exister sans qu'ils soient remarqués. Ces problèmes peuvent réduire l'efficacité de l'entreprise et même de baisser le chiffre d'affaires. Une grande majorité de ces problèmes peuvent-être résolus par moyens informatiques avec le développement d'une application, d'un site web, d'une base de données, avec d'autres besoins qui peuvent être implémenter. 
+
+Un premier échange à eu lieu entre Guillaume et un responsable de nuit de l'hôtel Holiday Inn Hotel IHG à Blagnac. Nous n'avons pas pu obtenir un entretien, car le client est entré dans un moment de travail assez chargé, donc par préférence, nous nous sommes mis d'accord à passer par le lien entre Guillaume et le responsable pour pouvoir poser davantage de questions et d'avoir les réponses. Avec l'accord de JMB, nous allons faire ce cahier des charges avec les informations données, ainsi que les informations "inventées" qui semblent être réelles. Toute information inventée sera précisée dans la suite.
+
+== 2 - Présentation de l'entreprise
+Holiday Inn Hôtel IHG à Blagnac est un hôtel disposant de navettes pour le transport entre l'aéroport et l'hôtel même. Cette organisation propose plusieurs offres pour les familles, telles que : séjour offert pour les personnes de 17 ans et moins s'ils restent dans la chambre de parent, le petit déjeuner offert pour deux enfants de 12 ans ou moins...
+
+L'hôtel est composé de 200 chambres disposées sur une surface près de 300m². Nous allons se focaliser sur l'équipe de ménage, qui est comme de 12 personnels de ménage : consistant de 2 responsables et 10 personnels.
+
+=== 2.1 - Caractérisation de l'entreprise
+L'entreprise est un hôtel, c'est-à-dire une organisation privée lucrative, avec pour but d'offrir des logements à courte durée lors d'un séjour pour les personnes ayant le besoin. Les hôtels peuvent offrir une chambre, des petits déjeuners avec le séjour, le service de chambre, ainsi que d'autres services retrouver dans des établissements similaires. Dans notre cas, l'hôtel propose le petit déjeuner avec un supplément pour le prix, mais des "packages" qui consiste à offrir un très bon rapport qualité pour l'hôtel (réservation d'une chambre avec une place de parking pendant un certain temps).
+
+=== 2.2 - Présentation du context
+*Cette information est une informatoin inventé*
+
+L'hôtel cherche à faire en sorte que le plus de chambres soient libres tous les jours, c'est-à-dire qu'après un départ, la chambre soit nettoyée et remise en état pour la prochaine réservation. On peut trouver des pertes de temps des fois selon l'état de la chambre post-départ, s'il manque des affaires. Il existe des petites pertes de temps, qui s'accumulent en une grosse perte de temps.
+
+=== 2.3 - Déroulement du projet
+Le projet a commencé en semaine 38, avec une première phase d'organisation et de planification. Ensuite, pendant deux semaines, nous travaillons sur le cahier des charges, sur la maquette, les User Stories, les User Cases, les personas et tout autre document d'information.
+
+== 3 - Problématique du projet
+Ce projet cible le département de ménage, à optimiser les tâches à faire, le temps de ménage et la gestion du stock.
+Nous allons proposer une application mobile disponible pour toute plateforme (Android, iOS, Windows, MacOS, Linux...) qui permet au personnel de mettre à jour quelles chambres ont été nettoyées, quelles chambres sont occupées ou à faire, s'il manque quelque chose dans la chambre, combien de choses il reste dans le stock, et d'autres commentaires. Notre but est de permettre plus de fluidité entre l'équipe de ménage et leurs responsables. L'idéal serait d'avoir le personnel qui fait une premier nettoyage leur permettant de faire le plus gros, de marquer ce qu'il faut remplacer et d'avertir s'il y a des grosses tâches ou des possibles retards dans le nettoyage de la chambre. Une fois que ceci est fait, le personnel peut confirmer le nettoyage, le retour, ou l'invadilité de son tâche.
+
+== 4 - Présentation des besoins
+Le client a besoin d'une application mobile facile d'accès et d'utilisation pour gérer les nettoyages des chambres, les pièces manquantes dans une chambre, si la chambre nécessite d'un nettoyage plus profond ainsi que d'autres fonctionnalités. Nous avons prévu d'implémenter des canaux de discussion interne, les plans des différents secteurs de l'hôtel, une option pour la validation du nettoyage de la chambre, les tâches à effectuer dans chaque chambre et une façon de signaler et dégradation ou des besoins d'un nettoyage plus profond que prévu (ceci permettra de cibler pour une autre fois le nettoyage des chambres qui en ont le plus besoin).
+
+
+== 5 - Description des fonctionnalités
+=== 5.1 - User Stories
+==== 5.1.1 - User Story N°1
+En tant que responsable de l'équipe de nettoyage, je souhaite avoir accès au nombre de chambres occupées, les chambres qui ont été nettoyées, voir s'il manque du matériel dans les chambres, voir ce qu'il reste à nettoyer pour chaque personne de l'équipe et avoir accès à un salon textuel interne en cas de besoin, afin d'avoir un temps de nettoyage efficace et optimisé.
+
+==== 5.1.2 - User Story N°2
+En tant que personnel de nettoyage, je souhaite avoir accès au nombre de chambres que j'ai à nettoyer, lesquelles des chambres sont occupées, celles qui ont déjà été faites et avoir un accès à un salon textuel interne dans le cas du besoin afin de pouvoir nettoyer les chambres de façon efficace et pouvoir rentabiliser mon temps à un maximum.
+
+=== 5.2 - User Cases
+==== 5.2.1 User Case N°1
+==== 5.2.2 User Case N°2
+
+== 6 - Hiérarchisation des Fonctionnalités
+=== Cas de fonctionnalité d'un personnel de ménage
+- Il faut pouvoir connecter et se déconnecter à son compte donné par l'entreprise
+- Il faut pouvoir accéder aux tâches à faire
+- Il faut pouvoir accéder à la carte
+- Il faut pouvoir changer l'état de la tâche (compléter, imprévu, souci...)
+- Il faut pouvoir contacter le supérieur en cas de soucis
+- Il faut pouvoir donner des précisions sur la tâche
+
+=== Cas de fonctionnalité d'un superviseur
+- Il faut pouvoir connecter et se déconnecter à son compte donné par l'entreprise
+- Il faut pouvoir distribuer les tâches au personnel
+- Il faut pouvoir suivre l'avancement des tâches
+- Il faut pouvoir accéder à la gestion des réserves de l'entreprise
+- Il faut pouvoir répondre aux prises de contact du personnel
+
+
+
+== 7 - Maquettes
+=== 7.1 - Support vidéo
