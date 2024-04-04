@@ -9,7 +9,7 @@ J'essaie d'apprendre le plus possible dans l'informatique et de pousser mes capa
 - faire une alternance en BUT2/3
 - faire une prépa MP2I (Maths Physiques Informatique Ingéneurie)
 - Partir dans une Institut de Technologie aux États-Unis car leur apprentissage correspond mieux à mes attentes et mon façon d'apprendre. 
-
+---
 
 
 ## 🇬🇧
