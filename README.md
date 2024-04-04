@@ -12,6 +12,7 @@ J'essaie d'apprendre le plus possible dans l'informatique et de pousser mes capa
 ---
 
 
+
 ## 🇬🇧
 
 - 👋 Hello, I am Zachary Ivars (alias @Trailmix05 online) a first year Computer Science student at the IUT of Blagnac 
