@@ -7,7 +7,6 @@
 📚📚
 J'essaie d'apprendre le plus possible dans l'informatique et de pousser mes capacités au plus loin possible. C'est pour cela que j'envisage :
 - faire une alternance en BUT2/3
-- faire une prépa MP2I (Maths Physiques Informatique Ingéneurie)
 - Partir dans une Institut de Technologie aux États-Unis car leur apprentissage correspond mieux à mes attentes et mon façon d'apprendre. 
 ---
 
@@ -22,7 +21,6 @@ J'essaie d'apprendre le plus possible dans l'informatique et de pousser mes capa
 📚📚
 I am doing my best to learn as much as possible in Computer Science and to push my abilities as far as possible. To achieve that I am pondering about : 
 - Doing a workstudy in 2nd and 3rd year of my bachelors
-- Do a "prépa MP2I" (Maths Physics Computer Science and Engineering) which is an intensive 2 year course(without credits) in order to push myself as far as possible
 - Go to a Institute of Technologie (such as Rochester Institute of Technology or Massachussets Istitute of Technology) int the United States since their way of teaching corresponds better to my expectations and to my way of learning.
 
 <!---
