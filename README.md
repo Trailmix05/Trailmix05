@@ -13,7 +13,6 @@
 - I am fond of the Computer Science, video games, archery along with other subjects.
 - 🌱 At the time of writing, I am learning Ada with my school, along with various avionics protocoles with my company in my workstudy. I am also learning Visual Programming (also called Blueprint) with a project in UE5. I would like to continue developing my skills with passion projects.
 
-- 
 <!---
 Trailmix05/Trailmix05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
